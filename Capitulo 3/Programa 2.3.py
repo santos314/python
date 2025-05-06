@@ -1,2 +1,0 @@
-nome = "Kaique "
-print(nome)
